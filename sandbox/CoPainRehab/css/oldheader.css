@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+	#r1c1, #r1c2, #r1c3, #r1c4, #r1c5, #r1c6, #r1c7{
+		background-color:#a7a9ac;
+		position:absolute;
+		top:0px;
+		height:127px;
+		width:130px;
+		padding:0px 0px 0px 0px;
+	}
+
+	#r1c1{
+		left:0px;
+	}
+
+	#r1c2{
+		background-color:#000;
+		left:140px;
+	}
+	#r1c3{
+		background-color:#818285;
+		left:280px;
+	}
+	#r1c4{
+		background-color:#bc9b6a;
+		left:420px;
+	}
+	#r1c5{
+		left:560px;
+	}
+	#r1c6{
+		background-color:#000;
+		left:700px;
+	}
+	#r1c7{
+		left:840px;
+	}
+
+	#r2c1, #r2c2, #r2c3, #r2c4, #r2c5, #r2c6, #r2c7{
+		background-color:#818285;
+		position:absolute;
+		top:135px;
+		height:130px;
+		width:130px;
+		padding:0px 0px 0px 0px;
+	}
+
+	#r2c1{
+		left:0px;
+		background-color:#818285;
+	}
+
+	#r2c2{
+		background-color:#bc9b6a;
+		left:140px;
+	}
+
+	#r2c3{
+		background-color:#000;
+		left:280px;
+	}
+
+	#r2c4{
+		background-color:#a7a9ac;
+		left:420px;
+	}
+	#r2c5{
+		background-color:#000;
+		left:560px;
+	}
+	#r2c6{
+		left:700px;
+	}
+	#r2c7{
+		background-color:#bc9b6a;
+		left:840px;
+	}
+
+

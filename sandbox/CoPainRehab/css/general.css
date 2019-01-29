@@ -1,0 +1,468 @@
+@charset "utf-8";
+/* CSS Document */
+
+html,body,div,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,pre,form,p,blockquote,fieldset,input {margin:0; padding:0;}
+h1,h2,h3,h4,h5,h6,pre,code,address,caption,cite,code,em,strong,th {font-size:1em; font-weight:normal; font-style:normal;}
+ul,ol {list-style:disc;}
+fieldset,img {border:none;}
+caption,th {text-align:left;}
+table {border-collapse:collapse; border-spacing:0;}
+td {vertical-align:top;}
+
+
+iframe {
+    display:none;
+  }
+body {
+	background-color: #000;
+}
+body,td,th {
+	color: #000;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+}
+
+
+
+h3{
+	margin-top:0;
+	margin-bottom:0;
+	position:relative;
+	left:50px;
+	}
+
+h2{
+	font-family:"Times New Roman", Times, serif;
+	font-size:18px;
+	color:#bc9b6a;
+	margin-top:0;
+	margin-bottom:5px;
+	}
+
+p{
+	margin-top:0px;
+	margin-bottom:20px;
+	}
+
+#WhiteTopBorder{
+	height:20px;
+	background-color:#FFF;
+}
+
+#MainPage{
+	background:#000;
+	text-align:center;
+	padding:0px 0px 0px 0px;
+}
+
+#Container1{
+	background:#FFF;
+	text-align:center;
+	margin:0 auto; 
+	width: 1239px;
+	height:825px;
+	z-index:2;
+	padding: 0px 0px 0px 0px;
+	overflow:visible;
+}
+
+#Container2{
+	float:left;
+	height:385px;
+	width: 825px;
+	padding: 0px 0px 0px 0px;
+	background-color:#FFF;
+}
+
+#Container2a{
+	float:left;
+	height:150px;
+	width: 825px;
+	padding: 0px 0px 0px 0px;
+	background-color:#FFF;
+}
+
+#HeaderImages{
+	position:relative;
+	left:-85px;
+	top:15px;
+	z-index:0;
+}
+
+#NextPhysician{
+	float:right;
+	position:relative;
+	top:-40px;
+	left:75px;
+	padding: 0px 5px 0px 5px;
+	background-color:#bbb;
+}
+#NextPhysician a:link{
+	text-decoration:none;
+	color:#FFF;
+}
+#NextPhysician a:visited{
+	text-decoration:none;
+	color:#FFF;
+}
+#NextPhysician a:hover{
+	color:#000;
+}
+
+#PreviousPhysician{
+	float:left;
+	position:relative;
+	top:16px;
+	padding: 0px 5px 0px 5px;
+	background-color:#bbb;
+	z-index:100;
+}
+#PreviousPhysician a:link{
+	text-decoration:none;
+	color:#FFF;
+}
+#PreviousPhysician a:visited{
+	text-decoration:none;
+	color:#FFF;
+}
+#PreviousPhysician a:hover{
+	color:#000;
+}
+
+
+#ImageNav{
+	position:relative;
+	left:-110px;
+	width:1400px;
+}
+
+#TopNav, #TopNavTitle{
+	position:relative;
+	left:-35px;
+	width:1000px;
+	z-index:110;
+	padding:40px 0px 0px 0px;
+}
+
+#TopNav{
+	padding:48px 0px 0px 0px;
+}
+
+
+#Logo {
+	float:none;
+	position:relative;
+	margin:0 auto;
+	top:-46px;
+	left:10px;
+	z-index:2000;
+	width:235px;
+	height:62px;
+}
+
+#Logo2 {
+	float:none;
+	position:relative;
+	margin:0 auto;
+	top:-46px;
+	left:10px;
+	z-index:2000;
+	width:235px;
+	height:62px;
+}
+
+
+#BottomNav{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-weight:bold;
+	font-size:12px;
+	position:relative;
+	top:-15px;
+	left:-110px;
+	width:1010px;
+	color:#bc9b6a;
+	z-index:0;
+	padding: 5px 0px 5px 0px;
+	*top:-40px;
+
+}
+
+#BottomNav a{
+	color:#bc9b6a;
+	text-decoration:none;
+}
+
+#BottomNav a:hover{
+	color:#000;
+	text-decoration:none;
+}
+
+.GreyLink a:link{
+	color:#666;
+	font-weight:bold;
+}
+
+.GreyLink a:hover{
+	color:#333;
+	font-weight:bold;
+}
+
+.GreyLink a:visited{
+	color:#999;
+	font-weight:bold;
+}
+
+
+#MainBody, #PhysicianMainBody{
+	position:relative;
+	left:30px;
+	top:-10px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	font-weight:normal;
+	height:410px;
+	width:680px;
+	text-align:justify;
+	line-height:1.5;
+	padding: 0px 10px 10px 10px;
+	z-index:0;
+  	*top:-40px;
+	*left:-5px
+
+}
+
+#PhysicianMainBody{
+	height:310px;
+}
+
+
+
+.PhysicianTanHeader, .ProcedureTanHeader{
+	font-family:"Times New Roman", Times, serif;
+	font-size:24px;
+	color:#bc9b6a;
+	padding-bottom:20px;
+	position:relative;
+	left:0px;
+	z-index:10;
+	
+	}
+	
+.ProcedureTanHeader{
+   left:+20px;
+   *left:-20px;
+}
+
+.TanHeader{
+	font-family:"Times New Roman", Times, serif;
+	font-size:24px;
+	color:#bc9b6a;
+	padding-bottom:20px;
+	left:42px;
+	*left:22px;
+	}
+
+.TanLink, .TanLink a:visited{
+	font-size:24px;
+	text-decoration:none;
+	color:#bc9b6a;
+}
+
+#ContactInfo {
+	margin:0 auto;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:16px;
+	padding:5px 20px 5px 20px;
+}
+
+#ContactInfo a:link {
+	color:#FFF;
+}
+
+#ContactInfo a:visited {
+	color:#FFF;
+}
+
+#ContactInfo a:hover {
+	color:#000;
+	background-color:#bc9a6a;
+}
+
+
+#footer {
+	position:relative;
+	top:-30px;
+	left: -90px;
+	padding:5px 0px 5px 0px;
+	background-color:#a7a9ac;
+	color:#fff;
+	font-size:12px;
+	width: 1010px;
+	text-align:center;
+	*top:-40px;
+}
+#footer a:link {
+	color:#fff;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+#footer a:hover {
+	color:#000;	
+}
+
+
+.ScrollContainer1{
+	position:relative;
+	left:0px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	font-weight:normal;
+	height:350px;
+	width: 720px;
+	text-align:left;
+	text-align:justify;
+	line-height:1.5;
+	padding: 0px 40px 10px 0px;
+	overflow:auto;
+	z-index:100;
+}
+
+#Scroller-1 { 
+  position: absolute; 
+  overflow: hidden;
+	height:350px;
+	width: 620px;
+  z-index:101;
+}
+
+
+
+#Scroller-1 p {
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	font-weight:normal;
+}
+
+.Scroller-Container {
+  position: absolute;
+  top: 0px; left: 0px;
+  z-index:2000;
+}
+
+#Scrollbar-Container {
+  position: absolute;
+  top: 70px; left: 720px;
+  z-index:2000;
+}
+.Scrollbar-Up {
+  cursor: pointer;
+  position: absolute;
+  z-index:2000;
+}
+.Scrollbar-Track {
+  width: 20px; 
+  height: 274px;
+  position: absolute;
+  top: 26px; left: 0px;
+  background: transparent url(/images/scrollertrack.png) repeat center center;
+  z-index:2000;
+}
+.Scrollbar-Handle {
+  position: absolute;
+  width: 20px; 
+  height: 10px;
+  z-index:2000;
+}
+.Scrollbar-Down {
+  cursor: pointer;
+  position: absolute;
+  top: 300px;
+  z-index:2000;
+}
+
+.faqAnswer{
+	background-color:#FF0;		
+}
+
+
+
+
+
+
+.ScrollContainer2{
+	position:relative;
+	left:0px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	font-weight:normal;
+	height:550px;
+	width: 720px;
+	text-align:left;
+	text-align:justify;
+	line-height:1.5;
+	padding: 0px 40px 10px 0px;
+	overflow:auto;
+	z-index:100;
+}
+
+#Scroller-2 { 
+  position: absolute; 
+  overflow: hidden;
+	height:550px;
+	width: 620px;
+  z-index:101;
+}
+
+
+
+#Scroller-2 p {
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	font-weight:normal;
+}
+
+.Scroller-Container2 {
+  position: absolute;
+  top: 0px; left: 0px;
+  z-index:2000;
+}
+
+#Scrollbar-Container2 {
+  position: absolute;
+  top: 70px; left: 720px;
+  z-index:2000;
+}
+.Scrollbar-Up2 {
+  cursor: pointer;
+  position: absolute;
+  z-index:2000;
+}
+.Scrollbar-Track2 {
+  width: 20px; 
+  height: 274px;
+  position: absolute;
+  top: 26px; left: 0px;
+  background: transparent url(/images/scrollertrack.png) repeat center center;
+  z-index:2000;
+}
+.Scrollbar-Handle2 {
+  position: absolute;
+  width: 20px; 
+  height: 10px;
+  z-index:2000;
+}
+.Scrollbar-Down2 {
+  cursor: pointer;
+  position: absolute;
+  top: 300px;
+  z-index:2000;
+}
+
+
