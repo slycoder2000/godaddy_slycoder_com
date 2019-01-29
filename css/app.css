@@ -1,0 +1,38 @@
+#container{
+	padding-left:10px;
+	padding-right:10px;
+}
+
+.maincontent{
+	padding-top:20px;
+	}
+
+	.top-bar {
+		 padding: 0px;
+	}
+	
+.top-bar, .top-bar ul {
+    background-color: #fff;
+}
+@media only screen and (min-width: 736px ){
+	.top-bar-left{
+		padding-top:10px;
+	}
+}
+	
+@media only screen and (max-width: 640px) {
+	.top-bar {
+		 padding: 0px;
+	}
+
+}
+@media only screen and (max-width: 600px) {
+	.top-bar-left .dropdown li {
+	  padding: 0px;
+	  font-size: .75rem;
+	}
+
+	body {
+		font-size: .75rem;
+	}
+}
