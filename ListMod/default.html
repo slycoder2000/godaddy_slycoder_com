@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <script src="listmod.js"></script>
+    <title></title>
+</head>
+<body>
+    <div>
+        <h1>Simple List Modification Tool</h1>
+    </div>
+    <form id="ListMod">
+        <div class="ListMod_div">
+            <textarea id="txtBx_Source" rows="10" cols="20">
+test{#}
+test{#}
+test{#}
+test{#}</textarea><br />
+            Prefix <input type="text" id="txtBx_Prefix" size="6" value="Line {#}:" /><br />
+            Suffix <input type="text" id="txtBx_Suffix" size="6" value="{#}" /><br />
+
+        </div>
+        <div class="ListMod_div">
+            <input type="checkbox" id="chkBx_SeparateLines" checked />Separate Lines<br />
+            <input type="checkbox" id="chkBx_StringDelim" />String Delimiter
+            <input type="text" id="txtBx_StringDelim" size="5" value='"' /><br />
+
+            <input type="checkbox" id="chkBx_LineDelim" />Line Delimiter
+            <input type="text" id="txtBx_LineDelim" size="5" value=',' /><br />
+            &nbsp;&nbsp;&nbsp;<input type="checkbox" id="chkBx_LineDelimLastLine" />Include on Last Line<br />
+            <input type="checkbox" id="chkBx_AppendLineCount" />Append Line Count<br />
+            <br />
+            <br />
+            <input type="checkbox" id="chkBx_ReplaceCustomLineNum" />Replace Custom with Line Number<br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" id="txtBx_ReplaceCustomLineNum" size="5" value='{#}' /><br />
+
+
+
+        </div>
+        <div class="ListMod_div">
+            <textarea id="txtBx_Result" rows="10" cols="25"></textarea><br />
+            <input type="button" id="btn_Process" value="Process Result" onclick="ProcessResult()" />
+        </div>
+
+</form>
+   
+</body>
+</html>
