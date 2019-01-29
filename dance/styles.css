@@ -1,0 +1,132 @@
+ /* Older browsers */
+  html { 
+      font-size: 30px; 
+      background-color: #904D1C;
+      }
+    img {  
+            max-height: 100%;  
+    max-width: 100%; 
+   
+    height: auto;
+    top: 0;  
+    bottom: 0;  
+    left: 0;  
+    right: 0;  
+    
+    margin: auto;
+        
+    width:35px; 
+    --padding:6px;  
+    --        text-align:center;
+    --        display: block;
+    --        margin-left: auto;
+    --        margin-right: auto;
+        }
+    
+    #rowid { line-height: 1.6;  }
+    #menu { background-color:#fff; }
+
+    #btn_Calendar { background-color:#00f; color:#000;}
+    
+    
+     #MainMenuButtons li {
+      color: #000;
+      float: left;
+      list-style: none;
+      text-align: center;
+      background-color: #33B5E5;
+      margin-left: 20px;
+      width: 300px;
+      line-height: 60px;
+    }
+    
+    #MainMenuButtons li a {
+      text-decoration: none;
+      color: #FFFFFF;
+      display: block;
+    }
+    
+    #MainMenuButtons li a:hover {
+      text-decoration: none;
+      color: #000000;
+      background-color: #ffff00;
+    }
+    
+    /* Accordian */
+    h1,h2,h3,h4,h5,h6 {
+    background-color:transparent;color:#000000;
+    padding:0px; 
+    margin:0px;
+}
+
+#accordion {
+  //width: 300px;
+  width: 100%;
+  margin: 0px auto;
+  padding: 0px;
+}
+
+#accordion .ui-accordion-header {
+  background-color: #ccc;
+  margin: 0px;
+  padding: 2px 5px 0px 5px;
+}
+
+#accordion .ui-accordion-content {
+  width: 80%;
+  background-color: #f3f3f3;
+  color: #000;
+  font-size: 0.8em;
+  padding: 0em 0em;
+  //line-height: 16pt;
+}
+
+    
+    
+  /* Form elements */    
+
+     input { font-size:24pt; }
+     
+     select { font-size:20pt; }
+     
+     input[type="checkbox"]{
+  width: 30px; /*Desired width*/
+  height: 30px; /*Desired height*/
+  cursor: pointer;
+}
+     
+     #buttons li {
+      //float: left;
+      list-style: none;
+      text-align: center;
+      background-color: #000000;
+      margin-top: 20px;
+      width: 60%;
+      line-height: 60px;
+    }
+    
+    #buttons li a {
+      text-decoration: none;
+      color: #FFFFFF;
+      display: block;
+    }
+    
+    #buttons li a:hover {
+      text-decoration: none;
+      color: #000000;
+      background-color: #33B5E5;
+    }
+
+    .WhiteText {
+        color:#fff;
+    }
+
+
+  /* Modern browsers only need this one */
+
+  @media screen and  (max-width: 50em) and (min-width: 25em){
+    html { font-size: calc( 16px + (30 - 16) * (100vw - 300px) / (800 - 300) ); }
+    img {  width:44%; padding-bottom: .24em; }
+  
+  }
+
