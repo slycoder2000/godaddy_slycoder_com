@@ -1,0 +1,181 @@
+CARLOS D. RAMIREZ
+8300 Sheridan Blvd #35B
+Arvada, Co.  80003
+
+Cell: 720-364-8011
+
+e-Mail: SLY@SLYCODER.COM
+Online Profile: www.Slycoder.com
+Linked-In: http://www.linkedin.com/in/slycoder
+Monster: http://beknown.com/slycoder
+
+
+PROFILE: Web Developer / Quality Assurance Officer
+
+Pursuing career in updating web sites to Responsive Web Design and to learn any new technology required.  
+
+
+SKILLS
+- Javascript handcoding, APIs and libraries – Jquery, Scriptaculous, ShadowBox and LightBox
+- HTML5 & CSS3
+- Responsive Web Design 
+- Dreamweaver CS 5.5
+- Visual Basic.NET and ASP.NET
+- Visual Basic for Applications and legacy VB6
+- Usage of source control software including TFS, SVN and SourceSafe
+- Microsoft Office 2000 – 2010 including Excel and Access macro programming and VBA
+- Intermediate database knowledge in Access, MySQL, Oracle and SQL Server 2000 – 2008 as well as Stored Procedures.
+- Knowledge of various media formats (MPG, MP4, AVI, FLV) resolutions and frame rates
+
+CONTRACT WORK EXPERIENCE
+
+Freelance Web Developer and Technical Consultant 
+Slycoder.com – Denver, CO
+July 1999 – Present
+
+- Converted Adobe Photoshop and MS Publisher files to HTML/CSS and javascript websites.
+- Developed Access databases and Excel spreadsheets requiring VBA programming and related to Quality Control, Instructor Reviews, Payroll, Slot Machine Analysis and Accounting projects.
+- Converted HTML/CSS/Javascript site to a WordPress site so client can do CMS
+- Advised client on SEO, page layouts, templates and online e-commerce implementation.
+- Created interface to edit biography profiles of personnel using Coldfusion MX, Fusebox 3 and Photoshop.
+- Modified VBA programs in Excel spreadsheet which enabled chemists to parse data via barcode reader.
+- Chemistry related reporting including the use of CAS numbers, Ion Balance Reports, Storm Water Reports and Elemental Extraction Electronic Data Documents (EDDs).
+
+QA/UAT Officer
+Charter Telcom [via Sand Cherry Associates] – Greenwood Village, CO
+Jan 2014 – Feb 2014
+
+- Tested user stories against development site.
+- Documented steps to recreate bugs with multiple browsers and operating systems.
+- Used VirtualBox and Dexpot to test in Windows XP virtual environment.
+
+VBA Access Database Programmer 
+Mission Yogurt [via CraigsList] – Westminster, CO
+Nov 2013 – Jan 2014
+
+- Microsoft Access 2010 application development for the Human Resources Department.
+- Designed and coded employee Access database.
+- Currently working with corporate to make the application web based.
+
+VBA Programmer 
+TeleTech [via High Country Partners] – Centennial, CO
+Aug 2013 – Nov 2013
+
+- Access 2007 and Excel 2007 application development for the finance department.
+- Designed and coded forecast and P&L data entry forms and reports in Access.
+- Constructed classes to perform custom functions applied to Tables, Queries and Forms.
+
+CMS Web Developer / VBA Programmer 
+eCollege [via Aquent] – Englewood, CO
+Dec 2011 – May 2012
+
+- Transitioned CMS content from one site to another requiring some javascript modifications.
+- Modified and debugged Pace Chart scheduling for 80+ courses using Excel 2010 VBA to generate the XML documents for websites.
+
+
+PERMANENT EXPERIENCE
+
+Quality Assurance Officer
+Tenere  – Lakewood, CO
+May 2014 – Present
+
+- Measured plastic injection molded parts using calipers and optical comparator to 1/1000th of an inch.
+- Documented discrepancies and sorted parts when defects are found.
+- Prototyped XML/XSLT program to display all parts, Manufacturing Inspection Procedures (MIPs) and SolidWorks blueprint documents.
+
+VB.Net Programmer 
+MLH Services LLC. – Lakewood, CO
+Sep 2012 – Aug 2013
+
+- Visual Basic.NET programming for Veteran’s Business Network and Native Training Solutions.
+- Implemented AJAX Control Toolkit for partial page updates.
+- Modification of ASP.NET and javascript search functions to produce desired output.
+- Used javascript, prototype.js, scriptactulous, and JQuery to change lightbox to shadowbox resulting in more flexibility.
+- Created process to add events via administrator screens and register for events via client side.
+- Modified classic ASP sites to have javascript/css/div dialog boxes
+- Changed menus to have CSS and text rather than images.
+- Added breadcrumbs and various other general changes.
+
+Visual Basic Software Engineer
+LenderLive Inc. – Glendale, CO
+Nov 2009 – Oct 2011
+
+- Modified stand-alone VB6 applications with new functionality. For instance: 2D Barcode capability using ActivePDF.
+- Created screens and scripts for custom application: Forms Authoring Toolkit (FATK) and the ActiveX Web-based Next Generation Input System NGIS.  Required version control of DLLs.
+
+Web Developer 
+Video Professor – Lakewood, CO
+Jan 2005 – Feb 2009
+
+- Created ad hoc Excel VBA solutions for marketing and quality assurance departments
+- Visual Basic.NET database connectivity with web GUIs in developer tools
+- Developed complex javascript routines including form validation, default field settings and capturing dynamic field entries using AJAX routines
+
+Web Developer 
+Qwest – Denver, CO
+Nov 2000 – Dec 2004
+
+- Developed, supported and maintained Visual Basic for Application (VBA) advanced functions and formulas in Excel and Access
+- Developed JSP program with Oracle 8i backend to display contact information when a US map was clicked on.
+- Developed the concept and constructed the Visual Basic 6 program that simulated FTP procedures and validations between the development server to the staging and production servers.
+- Maintained the Qwest Sales Intranet for all customer sales representatives.
+- Developed HTML and Javascript intranet web pages using Dreamweaver MX - specializing in forms and Perl programming.
+- Constructed the web based shopping cart utilizing Javascript and Perl that recorded customer orders of brochures, sale sheets and promotional items.
+
+Quality Control Officer 	
+Tenere, Inc. – Lakewood, CO
+Jul 1999 – May 2000
+
+- Measured plastic molded parts for computers and medical equipment.
+- Reported any discrepancies in production, assembly and procedures.
+- Utilized AutoCAD Rel 14 in generation of blueprints and plant mapping.
+
+College Professor 
+Westwood College of Technology – Denver, CO
+Sep 1999 – Aug 2000
+
+- Instructed Computer Apps 2, Access 97 and Introduction to Programming as well as real world application of databases in business environments.
+- Provided technical support for Access 97 in various departments
+
+MIS / Database Administrator
+The Gilpin/The Lodge Hotel Casino – Black Hawk, CO
+May 1998 – Jul 1999
+
+- Programmed scripts to compile and download information from an RS6000 Unix system to a Windows NT platform in ASCII format for importation into an Access Database.
+- Developed FoxPro 2.6 programs resulting in the approval of operation for the Lodge Casino by the Colorado Division of Gaming
+- Instructed members of the staff on the most efficient procedure of producing desired reports.
+
+Slot Analyst / Computer Specialist 
+Harveys Wagon Wheel Hotel Casino – Central City, CO
+Dec 1994 – May 1998
+
+- Three years of budget analysis for slot department.
+- Developed Turbo C programs to query slot machine wiring and Turbo C++ programs to extract and convert binary information from the main system.
+- Produced all reports required by the Division of Gaming in FoxPro and Access.
+- Worked with surveillance and accounting in determining machine/player discrepancies.
+- Advanced software techniques including but not limited to SMART System, Microsoft Word, FoxPro, Lotus, Excel and QBASIC.
+
+
+WEBSITES
+
+- Slycoder Personal Website http://www.SlyCoder.com
+- Risk Factor – Action Training Center http://www.RiskFactorATC.com
+- Rocky Mountain Stunts http://www.RMStunts.com
+- Warrior Quest http://www.WarriorQuest.com
+- Chambara http://www.Chambara.com
+- Colorado Pain and Rehabilitation http://www.CoPainAndRehab.com
+- Veteran’s Business Network http://www.VeteransBusinessNetwork.com
+- Native Training Solutions http://www.NativeTrainingSolutions.org
+
+
+EDUCATION
+
+- On the job web development experience
+Over 25 years on the job experience   
+- Westwood College of Technology
+Teaching Credential    1999 – 2000
+- Red Rocks Community College
+Major: Computer Science   1990 – 1991 
+- Denver University
+Major: Engineering 1987
+

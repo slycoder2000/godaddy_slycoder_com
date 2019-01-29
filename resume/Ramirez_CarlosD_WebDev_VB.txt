@@ -1,0 +1,131 @@
+CARLOS D. RAMIREZ
+VISUAL BASIC WEB DEVELOPER
+
+8300 Sheridan Blvd #35B
+Arvada, Co.  80003
+(720) 364-8011
+
+e-Mail: SLY@SLYCODER.COM
+Online Profile: www.Slycoder.com
+Linked-In: http://www.linkedin.com/in/slycoder
+Monster: http://beknown.com/slycoder
+
+-------
+PROFILE
+-------
+Web developer with knowledge of various languages and capable of supporting legacy applications, updating web sites to Responsive Web Design in a Microsoft environment, coding with Visual Studio.NET or Dreamweaver CS and automating tedious tasks with programs and procedures.
+
+------
+SKILLS
+------
+* Visual Basic.NET
+* Javascript handcoding, APIs and libraries – Jquery, Scriptaculous, ShadowBox and LightBox
+* Dreamweaver CS 5.5
+* HTML5 & CSS3
+* Responsive Web Design 
+* Knowledge of various media formats (MPG, MP4, AVI, FLV) resolutions and frame rates.
+* Visual Basic for Applications and legacy VB6
+* Usage of source control software including TFS, SVN and SourceSafe
+* Microsoft Office 2000 – 2010 including Excel and Access macro programming and VBA
+* Intermediate database knowledge: Create Read Update and Delete (CRUD) in Access, SQL Server 2000 – 2008, MySQL and Oracle
+* Stored Procedures in SQL Server 
+
+----------
+EXPERIENCE
+----------
+TeleTech | Centennial, CO
+VBA Programmer Aug 2013 – Present
+
+* Access 2007 and Excel 2007 application development for the finance department.
+* Designed and coded forecast and P&L data entry forms and reports.
+* Constructed classes to perform custom functions applied to Tables, Queries and Forms.
+* Product Pricing Tool development and design.
+
+MLH Services LLC. | Lakewood, CO
+VB.Net Programmer Sep 2012 – Aug 2013
+
+* Visual Basic.NET programming for Veteran’s Business Network and Native Training Solutions.
+* Implemented AJAX Control Toolkit for partial page updates.
+* Modification of ASP.NET and javascript search functions to produce desired output.
+* Used javascript, prototype.js, scriptactulous, and JQuery to change lightbox to shadowbox resulting in more flexibility.
+* Created process to add events via administrator screens and register for events via client side.
+* Modified classic ASP sites to have javascript/css/div dialog boxes
+* Changed menus to have CSS and text rather than images.
+* Added breadcrumbs and various other general changes.
+
+eCollege | Englewood, CO
+CMS Web Developer / VBA Programmer Dec 2011 – May 2012
+
+* Transitioned CMS content from one site to another requiring some javascript modifications.
+* Modified and debugged Pace Chart scheduling for 80+ courses using Excel 2010 VBA to generate the XML documents for websites.
+
+LenderLive Inc. | Glendale, CO
+Visual Basic Software Engineer Nov 2009 – Oct 2011
+
+* Modified stand-alone VB6 applications with new functionality. For instance: 2D Barcode capability using ActivePDF.
+* Created screens and scripts for custom application: Forms Authoring Toolkit (FATK) and the ActiveX Web-based Next Generation Input System NGIS.  Required version control of DLLs
+
+Video Professor | Lakewood, CO
+Web Developer Jan 2005 – Feb 2009
+
+* Created ad hoc Excel VBA solutions for marketing and quality assurance departments
+* Visual Basic.NET database connectivity with web GUIs in developer tools
+* Maintained DotNetNuke Intranet for team development and developed DotNetNuke skins and modules for intranet
+* Created "Campaigns" using Coldfusion, Javascript, CSS and Fusebox 3
+* Migration of developer tools from Coldfusion to VB.NET
+* Developed complex javascript routines including form validation, default field settings and capturing dynamic field entries using AJAX routines
+
+Qwest | Denver, CO
+Web Developer Nov 2000 – Dec 2004
+
+* Developed, supported and maintained Visual Basic for Application (VBA) advanced functions and formulas in Excel and Access
+* Developed the concept and constructed the Visual Basic 6 program that simulated FTP procedures and validations between the development server to the staging and production servers.
+* Maintained the Qwest Sales Intranet for all customer sales representatives.
+* Developed HTML and Javascript intranet web pages using Dreamweaver MX - specializing in forms and Perl programming.
+* Constructed the web based shopping cart utilizing Javascript and Perl that recorded customer orders of brochures, sale sheets and promotional items.
+
+-------------------------
+FREELANCE WORK EXPERIENCE
+-------------------------
+
+Slycoder.com
+Freelance Web Developer and Technical Consultant July 1999 – Present
+
+* Converted HTML/CSS/Javascript site to a WordPress site so client can do CMS
+* Worked with local martial arts/production studio to promote latest movie production.
+* Developed Dreamweaver, HTML and CSS courses for management.
+* Advised client on SEO, page layouts, templates and online e-commerce implementation.
+* Created interface to edit biography profiles of personnel using Coldfusion MX, Fusebox 3 and Photoshop.
+* Modified VBA programs in Excel spreadsheet which enabled chemists to parse data via barcode reader.
+* Assisted IT Manager with programming tasks such as DOS batch files for Robocopy, SQL Server joins and unusual printer performance.
+* Chemistry related reporting including the use of CAS numbers, Ion Balance Reports, Storm Water Reports and Elemental Extraction Electronic Data Documents (EDDs).
+* Developed, supported and maintained Access databases and Excel spreadsheets requiring VBA programming and related to Quality Control, Instructor Reviews, Payroll, Slot Machine Analysis and Accounting projects.
+
+--------
+WEBSITES
+--------
+* Slycoder Personal Website http://www.SlyCoder.com
+* Rocky Mountain Stunts http://www.RMStunts.com
+* Warrior Quest http://www.WarriorQuest.com
+* Gathering Of Heroes – The Movie http://www.GatheringOfHeroesMovie.com
+* Chambara http://www.Chambara.com
+* Colorado Pain and Rehabilitation http://www.CoPainAndRehab.com
+* Veteran’s Business Network http://www.VeteransBusinessNetwork.com
+* Native Training Solutions http://www.NativeTrainingSolutions.org
+
+---------
+EDUCATION
+---------
+On the job web development experience
+Over 25 years on the job experience   
+
+Westwood College of Technology
+Teaching Credential    1999 – 2000
+
+Red Rocks Community College
+Major: Computer Science   1990 – 1991 
+
+Denver University
+Major: Engineering 1987
+
+
