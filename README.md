@@ -10,7 +10,7 @@ Also has sandboxes and subdomains for potential clients.
 ## Criteria
 
 - PHP used for DRY programming for libraries, headers and footers
-- Foundation for basic cosmetics
+- Foundation for basic cosmetics and navigation
 - On smaller screens, condense the menu to the "Hamburger" icon and use a transition effect when clicked (both in and out).
 
 ## Summary of Tech Stack 
