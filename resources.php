@@ -21,8 +21,8 @@
 
 				<!-- Nav -->
 				<?php include('/scripts/univ_menu.php'); ?>
-				<!-- End of Nav -->			
-				
+				<!-- End of Nav -->
+
 				<!-- Main Content -->
 
 				<div class="grid-y maincontent">
@@ -42,10 +42,11 @@
                             <li><a href="https://foundation.zurb.com/" target="_blank">Foundation</a> - Responsive front end framework</li>
                             <li><a href="https://github.com/janl/mustache.js/" target="_blank">Mustache repo on GitHub</a> - templating in HTML and Javascript</li>
 							<li><a href="https://cdnjs.com/" target="_blank">CDN Library</a></li>
-                            
+							<li><a href="https://www.careereducation.columbia.edu/resources/resumes-impact-creating-strong-bullet-points" target="_blank">Resumes - Impact - creating strong bullet points</a></li>
+							<li><a href="https://www.pongoresume.com/blogPosts/438/super-easy-method-for-writing-a-targeted-resume.cfm" target="_blank">Super easy method for writing a targeted resume</a></li>
                          </ul
-                         
-                         
+
+
                          <h2>Archive</h2>
                          <ul>
 								<li> <a href="http://www.experts-exchange.com" target="_blank">Experts-Exchange</a></li>
@@ -66,7 +67,7 @@
 
 			</div>
 		</div>
-				
+
 		<?php include('/scripts/univ_footer.php'); ?>
 	</body>
 </html>
